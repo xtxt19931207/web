@@ -4,7 +4,7 @@ tagline:xt
 email: 571221894@qq.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: ""
+baseurl: "/web"
 url: "https://www.xtxtv.online"
 permalink: pretty
 #favicon: /path/to/favicon.png
